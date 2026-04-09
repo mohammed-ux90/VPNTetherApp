@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">VPN USB Tether</string>
+    <string name="start_proxy">Start VPN Tethering</string>
+    <string name="stop_proxy">Stop VPN Tethering</string>
+    <string name="proxy_status_stopped">Status: Stopped</string>
+    <string name="proxy_status_running">Status: Running</string>
+    <string name="ip_port_info">Proxy Server will be available at your Phone\'s Tethering IP (e.g. 192.168.42.129) on port 8080.</string>
+</resources>
